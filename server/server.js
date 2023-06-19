@@ -3,6 +3,8 @@ import * as dotenv from 'dotenv'
 import cors from 'cors'
 import { Configuration, OpenAIApi } from 'openai'
 
+// https://www.youtube.com/watch?v=2FeymQoKvrk&t=3646s
+
 dotenv.config()
 
 const configuration = new Configuration({
