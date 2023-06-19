@@ -1,3 +1,3 @@
-# Build and Deploy Your ChatGPT AI Application That Will Help You Code
+# Build and Deploy ChatGPT AI Codex App
 
 ### Node server app with pure JS client app
